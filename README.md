@@ -8,7 +8,7 @@
 | --- | --- |
 | 분야 | 교통 안전 위험 예측 |
 | 범위 | 프론트엔드, 백엔드, AI 엔진, 배포 스크립트 |
-| 역할 | 단독 개발 |
+| 역할 | 개인 개발 |
 | 기술 | React, Vite, Mantine, Spring Boot/eGovFrame, FastAPI, LightGBM, XGBoost, CatBoost, SHAP, Nginx |
 | 실행 환경 | 로컬 개발 환경, Windows 포터블 배포 패키지 |
 
