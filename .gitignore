@@ -52,7 +52,6 @@ backend/files/
 first_data/
 /data/
 real_data/
-nia-project/
 data_preprocess/
 
 # Local-only artifacts (안전 그물)
